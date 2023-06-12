@@ -2,7 +2,7 @@
 
 
 -- Important Variables
-local SCRIPT_NAME = "a Nigger"
+local SCRIPT_NAME = "NIGGER"
 local SCRIPT_VERSION = "v1"
 
 -- Detect if the script has executed by AutoExec
@@ -562,7 +562,7 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	
 	
 	
-	Library.ChatMsg.New(string.format("Hello, %s! You're running %s %s", LocalPlayer.DisplayName, SCRIPT_NAME, SCRIPT_VERSION), Color3.fromRGB(175, 70, 245))
+	Library.ChatMsg.New(string.format("Hello, %s! You're a %s %s", LocalPlayer.DisplayName, SCRIPT_NAME, SCRIPT_VERSION), Color3.fromRGB(175, 70, 245))
 	
 	--local mainTab = Window:CreateTab("Main", "12434808810")
 	
