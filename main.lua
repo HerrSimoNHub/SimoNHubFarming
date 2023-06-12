@@ -2,7 +2,7 @@
 
 
 -- Important Variables
-local SCRIPT_NAME = "SimoNHub PSX GUI"
+local SCRIPT_NAME = "a Nigger"
 local SCRIPT_VERSION = "v1"
 
 -- Detect if the script has executed by AutoExec
